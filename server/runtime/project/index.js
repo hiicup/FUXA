@@ -1139,7 +1139,13 @@ function setDeviceProperty(query) {
  */
 function getProjectDemo() {
     var demoProject = path.join(settings.appDir, 'project.demo.fuxap');
-    return JSON.parse(fs.readFileSync(demoProject, 'utf8'));;
+    var content = fs.readFileSync(demoProject, 'utf8');
+    // Strip a leading UTF-8 BOM so JSON.parse sees the real first character
+    // instead of failing on the invisible mark left by Windows editors.
+    if (content.charCodeAt(0) === 0xFEFF) {
+        content = content.substring(1);
+    }
+    return JSON.parse(content);
 }
 
 function _filterProjectPermission(userPermission, options = {}) {
