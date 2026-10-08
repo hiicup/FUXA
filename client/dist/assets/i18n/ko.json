@@ -199,6 +199,8 @@
     "editor.general": "일반",
     "editor.shape": "도형",
     "editor.processeng": "Proc. Eng.",
+    "editor.processeng.pumps": "펌프",
+    "editor.processeng.compressor": "압축기",
     "editor.animated": "에니메이션",
     "editor.controls": "제어",
     "editor.controls-input": "입력값",

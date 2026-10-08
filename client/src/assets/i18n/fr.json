@@ -533,6 +533,8 @@
   "editor.general": "Général",
   "editor.shape": "Formes",
   "editor.processeng": "Proc. Eng.",
+  "editor.processeng.pumps": "Pompes",
+  "editor.processeng.compressor": "Compresseurs",
   "editor.animated": "Animations",
   "editor.controls": "Contrôles",
   "editor.controls-input": "Valeur d'entrée",

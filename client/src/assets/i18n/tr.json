@@ -170,6 +170,8 @@
 	"editor.general": "Genel",
 	"editor.shape": "Şekil",
 	"editor.processeng": "Süreç Mühendisliği",
+	"editor.processeng.pumps": "Pompalar",
+	"editor.processeng.compressor": "Kompresörler",
 	"editor.animated": "Animasyon",
 
 	"editor.controls": "Kontroller",

@@ -1,7 +1,8 @@
 
 (function () {
     'use strict';
-    var shapesGroupName = 'Proc. Eng. Compressor';
+    // 面板分组标签，键见 assets/i18n/*.json（无译文时会原样显示该键名）
+    var shapesGroupName = 'editor.processeng.compressor';
     var typeId = 'proceng';
 
     var shapes = [

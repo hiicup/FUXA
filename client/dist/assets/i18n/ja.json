@@ -548,6 +548,8 @@
     "editor.general": "一般",
     "editor.shape": "シェイプ",
     "editor.processeng": "プロセスエンジニアリング",
+    "editor.processeng.pumps": "ポンプ",
+    "editor.processeng.compressor": "圧縮機",
     "editor.animated": "アニメーション",
     "editor.controls": "コントロール",
     "editor.controls-input": "入力値",

@@ -199,6 +199,8 @@
     "editor.general": "General",
     "editor.shape": "Forma",
     "editor.processeng": "Proc. Eng.",
+    "editor.processeng.pumps": "Bombas",
+    "editor.processeng.compressor": "Compresores",
     "editor.animated": "Animacion",
     "editor.controls": "Controles",
     "editor.controls-input": "Valor de entrada",

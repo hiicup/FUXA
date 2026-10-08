@@ -533,6 +533,8 @@
     "editor.general": "一般",
     "editor.shape": "圖形",
     "editor.processeng": "Proc. Eng.",
+    "editor.processeng.pumps": "泵",
+    "editor.processeng.compressor": "壓縮機",
     "editor.animated": "動畫",
     "editor.controls": "控制",
     "editor.controls-input": "輸入值",

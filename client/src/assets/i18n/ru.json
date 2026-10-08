@@ -388,6 +388,8 @@
     "editor.general": "Общие",
     "editor.shape": "Фигуры",
     "editor.processeng": "Инженерные",
+    "editor.processeng.pumps": "Насосы",
+    "editor.processeng.compressor": "Компрессоры",
     "editor.animated": "Анимированные",
     "editor.controls": "Элементы управления",
     "editor.controls-input": "Входное значение",

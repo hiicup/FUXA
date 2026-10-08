@@ -1,7 +1,13 @@
 
+// ⚠️ 本文件【未】被 shapes.js 的 shapesToLoad 启用，且不要启用它。
+// 原因：下面 10 个图元（补上 typeId 前缀后的 proceng-compvoid / proceng-motor / proceng-valveax ...）
+// 与 proc-shapes.js 中的条目【全部重名】，启用后拖到画布上会因为重名查不到而静默画不出东西。
+// 另外原文件缺少 typeId 声明，第 51 行的 typeId + '-' 会抛 ReferenceError，整个库注册失败。
+// 若确实要恢复这些符号，请从 proc-shapes.js 中选取，或先给它们改成互不冲突的 name。
 (function () {
     'use strict';
     var shapesGroupName = 'Proc. Eng.'; 
+    var typeId = 'proceng';          // 原文件缺失此声明，会导致 ReferenceError
 
     var shapes = [
         {

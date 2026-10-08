@@ -148,6 +148,8 @@
     "editor.shape": "Фігури",
     "editor.animated": "Анімація",
     "editor.processeng": "Елементи процесу",
+    "editor.processeng.pumps": "Насоси",
+    "editor.processeng.compressor": "Компресори",
     "editor.controls": "Елементи керування",
     "editor.controls-input": "Поле вводу",
     "editor.controls-input-settings": "Налаштування поля вводу",

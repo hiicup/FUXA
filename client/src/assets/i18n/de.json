@@ -420,6 +420,8 @@
     "editor.general": "Allgemein",
     "editor.shape": "Form",
     "editor.processeng": "Proz. Eng.",
+    "editor.processeng.pumps": "Pumpen",
+    "editor.processeng.compressor": "Verdichter",
     "editor.animated": "Animation",
     "editor.controls": "Steuerelemente",
     "editor.controls-input": "Eingabewert",

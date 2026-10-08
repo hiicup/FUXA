@@ -552,6 +552,8 @@
     "editor.general": "General",
     "editor.shape": "Shape",
     "editor.processeng": "Proc. Eng.",
+    "editor.processeng.pumps": "Proc. Eng. Pumps",
+    "editor.processeng.compressor": "Proc. Eng. Compressor",
     "editor.animated": "Animation",
     "editor.controls": "Controls",
     "editor.controls-input": "Input value",

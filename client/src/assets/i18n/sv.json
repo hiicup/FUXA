@@ -532,6 +532,8 @@
     "editor.general": "Allmänna symboler",
     "editor.shape": "Grafiska symboler",
     "editor.processeng": "Processautomation",
+    "editor.processeng.pumps": "Pumpar",
+    "editor.processeng.compressor": "Kompressorer",
     "editor.animated": "Animation",
     "editor.controls": "Interaktiva symboler",
     "editor.controls-input": "Indatavärde",
